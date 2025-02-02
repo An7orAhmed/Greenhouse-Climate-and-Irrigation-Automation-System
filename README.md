@@ -1,4 +1,3 @@
-```markdown
 # Greenhouse Climate and Irrigation Automation System
 
 ## Description  
@@ -64,6 +63,3 @@ An embedded system for automated greenhouse management using temperature, humidi
 2. Connect sensors per pin mapping
 3. Power 12V relay module separately
 4. System starts automatic control sequence on boot
-```
-
-This README focuses on functional implementation while omitting community/legal elements as requested. The pin map reflects actual code usage from provided snippets, with warnings about potential hardware variations.
